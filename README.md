@@ -30,14 +30,11 @@ Ubuntu 16.04, 18.04, 20.04, 22.04
 
 CentOS 7
 
-编辑配置文件：
-nano /etc/shadowsocks/config.json
+编辑配置文件：`nano /etc/shadowsocks/config.json`
 
-查看配置文件：
-cat /etc/shadowsocks/config.json
+查看配置文件：`cat /etc/shadowsocks/config.json`
 
-重启服务：'systemctl restart shadowsocks'
-
+重启服务：`systemctl restart shadowsocks`
 
 Shadowsocks客户端配置信息：
 `cat /etc/shadowsocks/config.json`
