@@ -6,7 +6,7 @@ Shadowsocks-Rust
 安装 SS-Rust：
 
 ```
-wget https://raw.githubusercontent.com/yang12me/v2ray-wss/main/ss-rust.sh && bash ss-rust.sh
+wget https://raw.githubusercontent.com/yang12me/ss-rust/main/ss-rust.sh && bash ss-rust.sh
 ```
 
 
