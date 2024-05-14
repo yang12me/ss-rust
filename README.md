@@ -18,14 +18,15 @@ wget https://raw.githubusercontent.com/yang12me/ss-rust/main/ss-rust.sh && bash 
 Shadowsocks客户端配置信息：
 `cat /etc/shadowsocks/config.json`
 
-更多的协议安装脚本，参考原作者的仓库：
+**更多的协议安装脚本，参考原作者的仓库：**
 https://github.com/yeahwu/v2ray-wss
 
 
-原作者的仓库里有 搭建 Shadowsocks-rust， V2ray+ Nginx + WebSocket 和 Reality, Hysteria2 代理脚本，支持 Debian、Ubuntu、Centos，并支持甲骨文ARM平台。
+**原作者的仓库里有 搭建 Shadowsocks-rust， V2ray+ Nginx + WebSocket 和 Reality, Hysteria2 代理脚本，支持 Debian、Ubuntu、Centos，并支持甲骨文ARM平台。**
 
 
 **便宜VPS推荐：** https://hostalk.net/deals.html
+
 
 已测试系统如下：
 
