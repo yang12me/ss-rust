@@ -24,21 +24,14 @@ https://github.com/yeahwu/v2ray-wss
 
 搭建 Shadowsocks-rust， V2ray+ Nginx + WebSocket 和 Reality, Hysteria2 代理脚本，支持 Debian、Ubuntu、Centos，并支持甲骨文ARM平台。
 
-简单点讲，没域名的用户可以安装 Reality 和 hy2 代理，有域名的可以安装 V2ray+ Nginx + WebSocket 代理，各取所需。
-
 
 **便宜VPS推荐：** https://hostalk.net/deals.html
 
-![image](https://github.com/yeahwu/v2ray-wss/assets/13328328/99ce2c9b-4e00-490c-8469-acb65174c912)
-
 已测试系统如下：
 
-Debian 9, 10, 11, 12
+Debian 11, 12
 
-Ubuntu 16.04, 18.04, 20.04, 22.04
-
-CentOS 7
-
+Ubuntu 18.04, 20.04, 22.04
 
 
 卸载方法如下：
