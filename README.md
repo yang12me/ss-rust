@@ -9,15 +9,13 @@ Shadowsocks-Rust
 wget https://raw.githubusercontent.com/yang12me/ss-rust/main/ss-rust.sh && bash ss-rust.sh
 ```
 
-
-更多的协议安装脚本，来原作者的页面：
-
+更多的协议安装脚本，参考原作者的仓库：
 https://github.com/yeahwu/v2ray-wss
+
 
 搭建 Shadowsocks-rust， V2ray+ Nginx + WebSocket 和 Reality, Hysteria2 代理脚本，支持 Debian、Ubuntu、Centos，并支持甲骨文ARM平台。
 
 简单点讲，没域名的用户可以安装 Reality 和 hy2 代理，有域名的可以安装 V2ray+ Nginx + WebSocket 代理，各取所需。
-
 
 
 运行脚本：
