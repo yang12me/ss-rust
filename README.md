@@ -1,9 +1,9 @@
-Shadowsocks-Rust
+**Shadowsocks-Rust 安装脚本**
 
 搭建 Shadowsocks-Rust 代理脚本，支持 Debian、Ubuntu、Centos，并支持甲骨文ARM平台。
 
 
-安装 SS-Rust：
+**安装 SS-Rust：**
 
 ```
 wget https://raw.githubusercontent.com/yang12me/ss-rust/main/ss-rust.sh && bash ss-rust.sh
