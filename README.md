@@ -9,6 +9,15 @@ Shadowsocks-Rust
 wget https://raw.githubusercontent.com/yang12me/ss-rust/main/ss-rust.sh && bash ss-rust.sh
 ```
 
+编辑配置文件：`nano /etc/shadowsocks/config.json`
+
+查看配置文件：`cat /etc/shadowsocks/config.json`
+
+重启服务：`systemctl restart shadowsocks`
+
+Shadowsocks客户端配置信息：
+`cat /etc/shadowsocks/config.json`
+
 更多的协议安装脚本，参考原作者的仓库：
 https://github.com/yeahwu/v2ray-wss
 
@@ -30,14 +39,6 @@ Ubuntu 16.04, 18.04, 20.04, 22.04
 
 CentOS 7
 
-编辑配置文件：`nano /etc/shadowsocks/config.json`
-
-查看配置文件：`cat /etc/shadowsocks/config.json`
-
-重启服务：`systemctl restart shadowsocks`
-
-Shadowsocks客户端配置信息：
-`cat /etc/shadowsocks/config.json`
 
 
 卸载方法如下：
