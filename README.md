@@ -1,4 +1,4 @@
-**此脚本参考自：https://github.com/yeahwu/v2ray-wss**
+**此脚本参考来自：https://github.com/yeahwu/v2ray-wss**
 
 
 
